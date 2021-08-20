@@ -1,4 +1,5 @@
 public class driver {
+
     public static void main(String[] args){
         BinaryTree tree = new BinaryTree();
         tree.root= new Node(1);
